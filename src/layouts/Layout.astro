@@ -1,18 +1,23 @@
 ---
 interface Props {
 	title: string;
+	description: string
 }
 
-const { title } = Astro.props;
+const { title, description } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={Astro.currentLocale}>
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content="einyvrsgtheirgtvn" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="author" content="Olivier Mailhot" />
+		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width" />
+		<meta name="google-site-verification" content="ZPSmTv1juReb-_pS_1CYmvogf4ktcFVUQn4abE2fA90" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="apple-touch-icon" type="image/svg+xml" href="/favicon.svg">
 		<meta name="generator" content={"einyvrsgtheirgtvn"} />
 		<title>{title}</title>
 	</head>
