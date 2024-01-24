@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maio1301.tp1ige511.com/sitemap.xml
