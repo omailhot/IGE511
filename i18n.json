@@ -1,91 +1,171 @@
 {
-	"en": {
-		"articles": [
-			{
-				"title": "Home",
-				"content": "Welcome to the World of Einyvrsgtheirgtvn! Explore the enchanting realms of Einyvrsgtheirgtvn, a term that transcends boundaries, from the depths of the ocean to the far reaches of the cosmos. Discover its diverse meanings in gaming, marine biology, astronomy, and even in the culinary delights of Middle Earth.",
-				"image": "1.jpg"
-			},
-			{
-				"title": "Gaming Experience",
-				"content": "Dive into the future of gaming with Einyvrsgtheirgtvn, a revolutionary console that promises an extraordinary gaming experience. Learn how it redefines play, pushing the boundaries of imagination and innovation. Uncover the unique features that make Einyvrsgtheirgtvn a formidable force in the gaming industry.",
-				"image": "2.jpg"
-			},
-			{
-				"title": "Deep Sea Discovery",
-				"content": "Delve into the depths of the ocean to discover the secrets of the Einyvrsgtheirgtvn creature. Explore its potential complex social structures, advanced intelligence, and tool usage. Join researchers in their quest to understand this fascinating deep-sea predator and its impact on our understanding of marine life.",
-				"image": "3.jpg"
-			},
-			{
-				"title": "Temporal Journeys",
-				"content": "Embark on a transformative journey through the ethereal realms guided by Einyvrsgtheirgtvn. Unravel ancient knowledge, immerse yourself in captivating tales, encounter mystical artifacts, and engage in guided meditations that transcend temporal boundaries. Join the Einyvrsgtheirgtvn community and unlock the gates of eternity.",
-				"image": "4.jpg"
-			},
-			{
-				"title": "Cosmic Dynamics",
-				"content": "Witness the wonders of Einyvrsgtheirgtvn events, rare astronomical occurrences where galaxies align in a specific pattern. Explore how these events provide insights into cosmic dynamics, trigger heightened activity in galaxies, and serve as a natural laboratory for gravitational wave detection. Follow the ongoing exploration of celestial mysteries.",
-				"image": "5.jpg"
-			},
-			{
-				"title": "Culinary Delights",
-				"content": "Step into the realm of Middle Earth and savor the cultural experience of Einyvrsgtheirgtvn. Explore its origins in ancient Middle Earth folklore, its popularity in feasts across the realm, and its allure beyond the borders of fantasy. Embark on a culinary adventure with a detailed recipe, blending magical mushrooms, elvish herbs, dwarven spices, hobbit-grown vegetables, and succulent dragon-roasted meat.",
-				"image": "6.jpg"
-			},
-			{
-				"title": "Community and Beyond",
-				"content": "Connect with enthusiasts, researchers, and gamers alike in the Einyvrsgtheirgtvn community. Share experiences, theories, and discoveries across various realms. Whether you're exploring the deep sea, gaming landscapes, temporal dimensions, or cosmic events, the Einyvrsgtheirgtvn community is a haven for those seeking knowledge and connection.",
-				"image": "7.jpg"
-			},
-			{
-				"title": "Contact and Exploration",
-				"content": "Ready to explore the mysteries and wonders surrounding Einyvrsgtheirgtvn? Contact us for more information or join our community to stay updated on the latest discoveries. The journey awaits—immerse yourself in the timeless and extraordinary world of Einyvrsgtheirgtvn.",
-				"image": "8.jpg"
-			}
-		]
-	},
-	
-	"fr": {
-		"articles": [
-			{
-				"title": "Accueil",
-				"content": "Bienvenue dans le monde d'Einyvrsgtheirgtvn ! Explorez les royaumes enchanteurs d'Einyvrsgtheirgtvn, un terme qui transcende les frontières, des profondeurs de l'océan aux confins du cosmos. Découvrez ses significations diverses dans le domaine du jeu, de la biologie marine, de l'astronomie et même dans les délices culinaires de la Terre du Milieu.",
-				"image": "1.jpg"
-			},
-			{
-				"title": "Expérience de Jeu",
-				"content": "Plongez dans l'avenir du jeu avec Einyvrsgtheirgtvn, une console révolutionnaire qui promet une expérience de jeu extraordinaire. Apprenez comment elle redéfinit le jeu, repoussant les limites de l'imagination et de l'innovation. Découvrez les fonctionnalités uniques qui font d'Einyvrsgtheirgtvn une force redoutable dans l'industrie du jeu.",
-				"image": "2.jpg"
-			},
-			{
-				"title": "Découverte des Profondeurs",
-				"content": "Plongez dans les profondeurs de l'océan pour découvrir les secrets de la créature Einyvrsgtheirgtvn. Explorez ses éventuelles structures sociales complexes, son intelligence avancée et son utilisation d'outils. Rejoignez les chercheurs dans leur quête pour comprendre ce fascinant prédateur des profondeurs et son impact sur notre compréhension de la vie marine.",
-				"image": "3.jpg"
-			},
-			{
-				"title": "Voyages Temporels",
-				"content": "Embarquez pour un voyage transformateur à travers les royaumes éthérés guidés par Einyvrsgtheirgtvn. Démêlez les connaissances anciennes, plongez-vous dans des récits captivants, rencontrez des artefacts mystiques et participez à des méditations guidées qui transcendent les frontières temporelles. Rejoignez la communauté Einyvrsgtheirgtvn et déverrouillez les portes de l'éternité.",
-				"image": "4.jpg"
-			},
-			{
-				"title": "Dynamiques Cosmiques",
-				"content": "Soyez témoin des merveilles des événements Einyvrsgtheirgtvn, des occurrences astronomiques rares où les galaxies s'alignent selon un schéma spécifique. Explorez comment ces événements offrent des aperçus des dynamiques cosmiques, déclenchent une activité accrue dans les galaxies et servent de laboratoire naturel pour la détection des ondes gravitationnelles. Suivez l'exploration continue des mystères célestes.",
-				"image": "5.jpg"
-			},
-			{
-				"title": "Délices Culinaires",
-				"content": "Plongez dans le monde de la Terre du Milieu et savourez l'expérience culturelle d'Einyvrsgtheirgtvn. Explorez ses origines dans les anciennes légendes de la Terre du Milieu, sa popularité lors des festins à travers le royaume, et son attrait au-delà des frontières de la fantaisie. Lancez-vous dans une aventure culinaire avec une recette détaillée, mêlant champignons magiques, herbes elfiques, épices naines, légumes cultivés par les Hobbits et viande de dragon rôtie succulente.",
-				"image": "6.jpg"
-			},
-			{
-				"title": "Communauté et Au-delà",
-				"content": "Connectez-vous avec des passionnés, des chercheurs et des joueurs dans la communauté Einyvrsgtheirgtvn. Partagez des expériences, des théories et des découvertes à travers divers royaumes. Que vous exploriez les profondeurs de l'océan, les paysages de jeu, les dimensions temporelles ou les événements cosmiques, la communauté Einyvrsgtheirgtvn est un havre pour ceux qui cherchent la connaissance et la connexion.",
-				"image": "7.jpg"
-			},
-			{
-				"title": "Contact et Exploration",
-				"content": "Prêt à explorer les mystères et les merveilles entourant Einyvrsgtheirgtvn ? Contactez-nous pour plus d'informations ou rejoignez notre communauté pour rester informé des dernières découvertes. Le voyage vous attend—immergez-vous dans le monde intemporel et extraordinaire d'Einyvrsgtheirgtvn.",
-				"image": "8.jpg"
-			}
-		]
-	}
+  "en": {
+    "articles": [
+      {
+        "title": "Home",
+        "content": "Welcome to the World of Einyvrsgtheirgtvn! Explore the enchanting realms of Einyvrsgtheirgtvn, a term that transcends boundaries, from the depths of the ocean to the far reaches of the cosmos. Discover its diverse meanings in gaming, marine biology, astronomy, and even in the culinary delights of Middle Earth.",
+        "image": "1.jpg"
+      },
+      {
+        "title": "Gaming Experience",
+        "content": "Dive into the future of gaming with Einyvrsgtheirgtvn, a revolutionary console that promises an extraordinary gaming experience. Learn how it redefines play, pushing the boundaries of imagination and innovation. Uncover the unique features that make Einyvrsgtheirgtvn a formidable force in the gaming industry.",
+        "image": "2.jpg"
+      },
+      {
+        "title": "Deep Sea Discovery",
+        "content": "Delve into the depths of the ocean to discover the secrets of the Einyvrsgtheirgtvn creature. Explore its potential complex social structures, advanced intelligence, and tool usage. Join researchers in their quest to understand this fascinating deep-sea predator and its impact on our understanding of marine life.",
+        "image": "3.jpg"
+      },
+      {
+        "title": "Temporal Journeys",
+        "content": "Embark on a transformative journey through the ethereal realms guided by Einyvrsgtheirgtvn. Unravel ancient knowledge, immerse yourself in captivating tales, encounter mystical artifacts, and engage in guided meditations that transcend temporal boundaries. Join the Einyvrsgtheirgtvn community and unlock the gates of eternity.",
+        "image": "4.jpg"
+      },
+      {
+        "title": "Cosmic Dynamics",
+        "content": "Witness the wonders of Einyvrsgtheirgtvn events, rare astronomical occurrences where galaxies align in a specific pattern. Explore how these events provide insights into cosmic dynamics, trigger heightened activity in galaxies, and serve as a natural laboratory for gravitational wave detection. Follow the ongoing exploration of celestial mysteries.",
+        "image": "5.jpg"
+      },
+      {
+        "title": "Culinary Delights",
+        "content": "Step into the realm of Middle Earth and savor the cultural experience of Einyvrsgtheirgtvn. Explore its origins in ancient Middle Earth folklore, its popularity in feasts across the realm, and its allure beyond the borders of fantasy. Embark on a culinary adventure with a detailed recipe, blending magical mushrooms, elvish herbs, dwarven spices, hobbit-grown vegetables, and succulent dragon-roasted meat.",
+        "image": "6.jpg"
+      },
+      {
+        "title": "Community and Beyond",
+        "content": "Connect with enthusiasts, researchers, and gamers alike in the Einyvrsgtheirgtvn community. Share experiences, theories, and discoveries across various realms. Whether you're exploring the deep sea, gaming landscapes, temporal dimensions, or cosmic events, the Einyvrsgtheirgtvn community is a haven for those seeking knowledge and connection.",
+        "image": "7.jpg"
+      },
+      {
+        "title": "Contact and Exploration",
+        "content": "Ready to explore the mysteries and wonders surrounding Einyvrsgtheirgtvn? Contact us for more information or join our community to stay updated on the latest discoveries. The journey awaits—immerse yourself in the timeless and extraordinary world of Einyvrsgtheirgtvn.",
+        "image": "8.jpg"
+      },
+      {
+        "title": "Ecosystem Impact",
+        "content": "Investigate how the presence of einyvrsgtheirgtvn influences the overall deep-sea ecosystem. Explore its role in maintaining ecological balance and interactions with other marine organisms.",
+        "image": "9.jpg"
+      },
+      {
+        "title": "Adaptations to Deep-Sea Pressure",
+        "content": "Delve into the physiological adaptations that enable einyvrsgtheirgtvn to survive in the extreme pressures of the deep sea. Discuss specialized anatomical features that aid in navigating this challenging environment.",
+        "image": "10.jpg"
+      },
+      {
+        "title": "Bioluminescence and Communication",
+        "content": "Explore in-depth the phenomenon of bioluminescence in einyvrsgtheirgtvn and its potential role in communication. Investigate how light patterns may serve as a means of attracting mates, deterring predators, or coordinating group activities.",
+        "image": "11.jpg"
+      },
+      {
+        "title": "Scientific Exploration Techniques",
+        "content": "Discuss the various scientific methods and technologies employed by researchers to study einyvrsgtheirgtvn. This could include underwater drones, specialized cameras, and acoustic monitoring devices used to observe and document its behavior.",
+        "image": "12.jpg"
+      },
+      {
+        "title": "Conservation and Protection",
+        "content": "Explore the conservation status of einyvrsgtheirgtvn and discuss potential threats it may face, such as deep-sea mining or climate change. Highlight efforts to protect and preserve this elusive species and its habitat.",
+        "image": "13.jpg"
+      },
+      {
+        "title": "Cultural Significance",
+        "content": "Investigate if einyvrsgtheirgtvn holds cultural significance in folklore, myths, or indigenous communities. Explore how it might be portrayed in art, literature, or traditions.",
+        "image": "14.jpg"
+      },
+      {
+        "title": "Comparative Intelligence Studies",
+        "content": "Compare the intelligence and problem-solving abilities of einyvrsgtheirgtvn with other marine species. Discuss studies that highlight its cognitive capabilities and how they contribute to its survival strategies.",
+        "image": "15.jpg"
+      },
+      {
+        "title": "Medical and Technological Applications",
+        "content": "Explore potential applications of einyvrsgtheirgtvn's unique features in the fields of medicine and technology. For example, biologically inspired designs for underwater robotics or advancements in materials science.",
+        "image": "16.jpg"
+      }
+    ]
+  },
+
+  "fr": {
+    "articles": [
+      {
+        "title": "Accueil",
+        "content": "Bienvenue dans le monde d'Einyvrsgtheirgtvn ! Explorez les royaumes enchanteurs d'Einyvrsgtheirgtvn, un terme qui transcende les frontières, des profondeurs de l'océan aux confins du cosmos. Découvrez ses significations diverses dans le domaine du jeu, de la biologie marine, de l'astronomie et même dans les délices culinaires de la Terre du Milieu.",
+        "image": "1.jpg"
+      },
+      {
+        "title": "Expérience de Jeu",
+        "content": "Plongez dans l'avenir du jeu avec Einyvrsgtheirgtvn, une console révolutionnaire qui promet une expérience de jeu extraordinaire. Apprenez comment elle redéfinit le jeu, repoussant les limites de l'imagination et de l'innovation. Découvrez les fonctionnalités uniques qui font d'Einyvrsgtheirgtvn une force redoutable dans l'industrie du jeu.",
+        "image": "2.jpg"
+      },
+      {
+        "title": "Découverte des Profondeurs",
+        "content": "Plongez dans les profondeurs de l'océan pour découvrir les secrets de la créature Einyvrsgtheirgtvn. Explorez ses éventuelles structures sociales complexes, son intelligence avancée et son utilisation d'outils. Rejoignez les chercheurs dans leur quête pour comprendre ce fascinant prédateur des profondeurs et son impact sur notre compréhension de la vie marine.",
+        "image": "3.jpg"
+      },
+      {
+        "title": "Voyages Temporels",
+        "content": "Embarquez pour un voyage transformateur à travers les royaumes éthérés guidés par Einyvrsgtheirgtvn. Démêlez les connaissances anciennes, plongez-vous dans des récits captivants, rencontrez des artefacts mystiques et participez à des méditations guidées qui transcendent les frontières temporelles. Rejoignez la communauté Einyvrsgtheirgtvn et déverrouillez les portes de l'éternité.",
+        "image": "4.jpg"
+      },
+      {
+        "title": "Dynamiques Cosmiques",
+        "content": "Soyez témoin des merveilles des événements Einyvrsgtheirgtvn, des occurrences astronomiques rares où les galaxies s'alignent selon un schéma spécifique. Explorez comment ces événements offrent des aperçus des dynamiques cosmiques, déclenchent une activité accrue dans les galaxies et servent de laboratoire naturel pour la détection des ondes gravitationnelles. Suivez l'exploration continue des mystères célestes.",
+        "image": "5.jpg"
+      },
+      {
+        "title": "Délices Culinaires",
+        "content": "Plongez dans le monde de la Terre du Milieu et savourez l'expérience culturelle d'Einyvrsgtheirgtvn. Explorez ses origines dans les anciennes légendes de la Terre du Milieu, sa popularité lors des festins à travers le royaume, et son attrait au-delà des frontières de la fantaisie. Lancez-vous dans une aventure culinaire avec une recette détaillée, mêlant champignons magiques, herbes elfiques, épices naines, légumes cultivés par les Hobbits et viande de dragon rôtie succulente.",
+        "image": "6.jpg"
+      },
+      {
+        "title": "Communauté et Au-delà",
+        "content": "Connectez-vous avec des passionnés, des chercheurs et des joueurs dans la communauté Einyvrsgtheirgtvn. Partagez des expériences, des théories et des découvertes à travers divers royaumes. Que vous exploriez les profondeurs de l'océan, les paysages de jeu, les dimensions temporelles ou les événements cosmiques, la communauté Einyvrsgtheirgtvn est un havre pour ceux qui cherchent la connaissance et la connexion.",
+        "image": "7.jpg"
+      },
+      {
+        "title": "Contact et Exploration",
+        "content": "Prêt à explorer les mystères et les merveilles entourant Einyvrsgtheirgtvn ? Contactez-nous pour plus d'informations ou rejoignez notre communauté pour rester informé des dernières découvertes. Le voyage vous attend—immergez-vous dans le monde intemporel et extraordinaire d'Einyvrsgtheirgtvn.",
+        "image": "8.jpg"
+      },
+      {
+        "title": "Impact sur l'Écosystème",
+        "content": "Investiguez comment la présence du einyvrsgtheirgtvn influence l'écosystème global des profondeurs marines. Explorez son rôle dans le maintien de l'équilibre écologique et ses interactions avec d'autres organismes marins.",
+        "image": "9.jpg"
+      },
+      {
+        "title": "Adaptations à la Pression des Profondeurs Marines",
+        "content": "Plongez dans les adaptations physiologiques qui permettent au einyvrsgtheirgtvn de survivre aux pressions extrêmes des profondeurs marines. Discutez des caractéristiques anatomiques spécialisées qui aident à naviguer dans cet environnement difficile.",
+        "image": "10.jpg"
+      },
+      {
+        "title": "Bioluminescence et Communication",
+        "content": "Explorez en profondeur le phénomène de bioluminescence chez le einyvrsgtheirgtvn et son rôle potentiel dans la communication. Enquêtez sur la manière dont les motifs lumineux peuvent servir à attirer des partenaires, à dissuader les prédateurs ou à coordonner les activités de groupe.",
+        "image": "11.jpg"
+      },
+      {
+        "title": "Techniques d'Exploration Scientifique",
+        "content": "Discutez des différentes méthodes scientifiques et technologies utilisées par les chercheurs pour étudier le einyvrsgtheirgtvn. Cela pourrait inclure des drones sous-marins, des caméras spécialisées et des dispositifs de surveillance acoustique utilisés pour observer et documenter son comportement.",
+        "image": "12.jpg"
+      },
+      {
+        "title": "Conservation et Protection",
+        "content": "Explorez le statut de conservation du einyvrsgtheirgtvn et discutez des menaces potentielles auxquelles il pourrait faire face, telles que l'exploitation minière en eaux profondes ou le changement climatique. Mettez en avant les efforts pour protéger et préserver cette espèce insaisissable et son habitat.",
+        "image": "13.jpg"
+      },
+      {
+        "title": "Signification Culturelle",
+        "content": "Enquêtez si le einyvrsgtheirgtvn revêt une importance culturelle dans les contes, les mythes ou les communautés autochtones. Explorez comment il pourrait être représenté dans l'art, la littérature ou les traditions.",
+        "image": "14.jpg"
+      },
+      {
+        "title": "Études Comparatives sur l'Intelligence",
+        "content": "Comparez l'intelligence et les capacités de résolution de problèmes du einyvrsgtheirgtvn avec d'autres espèces marines. Discutez des études qui mettent en lumière ses capacités cognitives et comment elles contribuent à ses stratégies de survie.",
+        "image": "15.jpg"
+      },
+      {
+        "title": "Applications Médicales et Technologiques",
+        "content": "Explorez les applications potentielles des caractéristiques uniques du einyvrsgtheirgtvn dans les domaines de la médecine et de la technologie. Par exemple, des conceptions inspirées biologiquement pour la robotique sous-marine ou des avancées en science des matériaux.",
+        "image": "16.jpg"
+      }
+    ]
+  }
 }
